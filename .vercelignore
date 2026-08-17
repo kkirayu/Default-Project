@@ -1,0 +1,7 @@
+data/
+scripts/
+server.log
+server.err
+*.db
+*.db-wal
+*.db-shm
